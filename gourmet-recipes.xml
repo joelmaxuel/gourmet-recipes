@@ -5,56 +5,56 @@
 		<title>Bean Salad</title>
 		<category>Salad</category>
 		<cuisine>American</cuisine>
-		<preptime>1 hour</preptime>
+		<preptime>20 minutes</preptime>
 		<yields>8 servings</yields>
 		<ingredient-list>
 			<ingredient>
 				<amount>1</amount>
 				<unit>can</unit>
 				<item>Green Beans, cut</item>
-				<key>Green Beans, cut</key>
+				<key>green beans</key>
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
 				<unit>can</unit>
 				<item>Waxed Beans, cut</item>
-				<key>Waxed Beans, cut</key>
+				<key>waxed beans</key>
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
 				<unit>can</unit>
 				<item>Red Kidney Beans</item>
-				<key>Red Kidney Beans</key>
+				<key>red kidney beans</key>
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
 				<unit>whole</unit>
 				<item>Carrot, thinly sliced</item>
-				<key>Carrot, thinly sliced</key>
+				<key>carrot</key>
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
 				<unit>small</unit>
 				<item>Onion, chopped</item>
-				<key>Onion, chopped</key>
+				<key>onion</key>
 			</ingredient>
 			<ingredient>
 				<amount>1</amount>
 				<unit>whole</unit>
 				<item>Bell Pepper</item>
-				<key>Bell Pepper</key>
+				<key>bell pepper, green</key>
 			</ingredient>
 			<ingredient optional="yes">
 				<amount>1/2</amount>
 				<unit>cup</unit>
 				<item>Black Beans</item>
-				<key>Black Beans</key>
+				<key>black beans</key>
 			</ingredient>
 			<ingredient optional="yes">
 				<amount>1/2</amount>
 				<unit>cup</unit>
 				<item>Chickpeas</item>
-				<key>Chickpeas</key>
+				<key>chickpeas</key>
 			</ingredient>
 			<inggroup>
 				<groupname>Dressing</groupname>
@@ -62,37 +62,37 @@
 					<amount>1/3</amount>
 					<unit>cup</unit>
 					<item>Olive Oil</item>
-					<key>Olive Oil</key>
+					<key>oil, olive</key>
 				</ingredient>
 				<ingredient>
 					<amount>1/2</amount>
 					<unit>cup</unit>
 					<item>Cider Vinegar</item>
-					<key>Cider Vinegar</key>
+					<key>vinegar, cider</key>
 				</ingredient>
 				<ingredient>
 					<amount>1</amount>
 					<unit>tsp</unit>
 					<item>Salt</item>
-					<key>Salt</key>
+					<key>salt</key>
 				</ingredient>
 				<ingredient>
 					<amount>1/2</amount>
 					<unit>tsp</unit>
 					<item>Pepper</item>
-					<key>Pepper</key>
+					<key>black pepper</key>
 				</ingredient>
 				<ingredient>
 					<amount>1/4</amount>
 					<unit>cup</unit>
 					<item>Sugar</item>
-					<key>Sugar</key>
+					<key>sugar</key>
 				</ingredient>
 				<ingredient>
 					<amount>1/2</amount>
 					<unit>tsp</unit>
 					<item>Celery Seed</item>
-					<key>Celery Seed</key>
+					<key>celery seed</key>
 				</ingredient>
 			</inggroup>
 		</ingredient-list>
@@ -163,30 +163,301 @@
 					<item>Lemon Juice</item>
 					<key>lemon juice</key>
 				</ingredient>
+				<ingredient>
+					<amount>3/4</amount>
+					<unit>c</unit>
+					<item>Olive Oil</item>
+					<key>oil, olive</key>
+				</ingredient>
+				<ingredient>
+					<amount>1</amount>
+					<unit>Tbs</unit>
+					<item>Pepper</item>
+					<key>black pepper</key>
+				</ingredient>
+				<ingredient>
+					<amount>2</amount>
+					<unit>tsp</unit>
+					<item>Salt</item>
+					<key>salt</key>
+				</ingredient>
 			</inggroup>
-			<ingredient>
-				<amount>3/4</amount>
-				<unit>c</unit>
-				<item>Olive Oil</item>
-				<key>oil, olive</key>
-			</ingredient>
-			<ingredient>
-				<amount>1</amount>
-				<unit>Tbs</unit>
-				<item>Pepper</item>
-				<key>bell pepper, green</key>
-			</ingredient>
-			<ingredient>
-				<amount>2</amount>
-				<unit>tsp</unit>
-				<item>Salt</item>
-				<key>salt</key>
-			</ingredient>
 		</ingredient-list>
 		<instructions>* Soak the cracked wheat in the hot water until the water is absorbed, about 30minutes (or as directed).
 * Drain any excess water, if necessary, and squeeze dry.
 * Combine the salad ingredients, including wheat, in a medium bowl.
 * Mix the dressing ingredients together and stir into the salad mixture.
 * Serve chilled or at room temperature.</instructions>
+	</recipe>
+	<recipe id="3">
+		<title>Backed Beans</title>
+		<category>Supper</category>
+		<cuisine>American</cuisine>
+		<preptime>1 hour</preptime>
+		<yields>6 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<unit>lb</unit>
+				<item>Jacob Cattle or Yellow Eyed Beans</item>
+				<key>jacob cattle beans</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>tsp</unit>
+				<item>Mustard Powder</item>
+				<key>mustard powder</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>medium</unit>
+				<item>Onions, chopped</item>
+				<key>onion</key>
+			</ingredient>
+			<ingredient>
+				<amount>1/4</amount>
+				<unit>c</unit>
+				<item>Brown Sugar</item>
+				<key>sugar, brown</key>
+			</ingredient>
+			<ingredient>
+				<amount>1/4</amount>
+				<unit>c</unit>
+				<item>Molasses</item>
+				<key>molasses</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>Tbs</unit>
+				<item>Ketchup</item>
+				<key>ketchup</key>
+			</ingredient>
+			<ingredient>
+				<amount>1/4</amount>
+				<unit>lb</unit>
+				<item>Salt Pork (i.e. ham trimmings)</item>
+				<key>salt pork</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>* Cover beans with water and soak overnight.  When ready to cook, drain original water.
+* Cover beans with fresh water, then boil, covered for about half an hour (until beans are wrinkled - add water if needed).
+* Drain again, add 2 cups water (fresh) with beans and mix in mustard, pepper, salt, onions, brown sugar, molasses, and ketchup.
+* Heat oven to 300F.  Transfer bean mixture to covered dish (i.e. bean pot) with salt pork on bottom.  Bake for 1 - 2 hours.</instructions>
+	</recipe>
+	<recipe id="3">
+		<title>Tofu and Cashew Chow Mein</title>
+		<category>Dinner</category>
+		<cuisine>Asian</cuisine>
+		<preptime>30 minutes</preptime>
+		<yields>4 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>10</amount>
+				<unit>oz</unit>
+				<item>Thick Wheat Noodles, precooked</item>
+				<key>noodles</key>
+			</ingredient>
+			<ingredient>
+				<amount>3</amount>
+				<unit>Tbs</unit>
+				<item>Soy Sauce</item>
+				<key>soy sauce</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>Tbs</unit>
+				<item>Oyster Sauce</item>
+				<key>oyster sauce</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>tsp</unit>
+				<item>Sesame Oil</item>
+				<key>sesame oil</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>Tbs</unit>
+				<item>Water</item>
+				<key>water</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>Tbs</unit>
+				<item>Peanut Oil (or other oil suitable for frying)</item>
+				<key>peanut oil</key>
+			</ingredient>
+			<ingredient>
+				<amount>6</amount>
+				<unit>oz</unit>
+				<item>Firm Tofu, cut into cubes</item>
+				<key></key>
+			</ingredient>
+			<ingredient>
+				<amount>1</amount>
+				<unit>whole</unit>
+				<item>Carrot, julienned</item>
+				<key>carrot</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>cup</unit>
+				<item>Broccoli Florets, small</item>
+				<key>broccoli</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>whole</unit>
+				<item>Garlic, minced</item>
+				<key>garlic</key>
+			</ingredient>
+			<ingredient>
+				<amount>2</amount>
+				<unit>tsp</unit>
+				<item>Ginger, finely grated</item>
+				<key>ginger</key>
+			</ingredient>
+			<ingredient>
+				<amount>1/2</amount>
+				<unit>cup</unit>
+				<item>Cashews, roasted</item>
+				<key>cashews</key>
+			</ingredient>
+		</ingredient-list>
+		<instructions>* Loosen the precooked noodles by soaking in a bowl of hot water for 2-3 minutes, then drain and set aside.
+* Mix together the soy sauce, oyster sauce, sesame oil and water in a bowl.
+* Heat a wok or large frying pan over a high heat, add the oil and stir-fry the carrot and broccoli for 2 minutes.
+* Add the tofu and stir-fry for 4 minutes.
+* Add the garlic and ginger and stir-fry for a minute.
+* Stir through the noodles and then add the sauce mixture and cashews and mix until thoroughly combined and heated through.
+
+Variations:
+- Flaked almonds can replace the cashews.
+- Cooked chow mein, soba, or buckwheat noodles can be used instead of the precooked wheat noodles. 
+</instructions>
+	</recipe>
+	<recipe id="0">
+		<title>Beans</title>
+		<category>Salad</category>
+		<cuisine>American</cuisine>
+		<preptime>1 hour</preptime>
+		<yields>8 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<ingredient optional="yes">
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<inggroup>
+				<groupname>Dressing</groupname>
+				<ingredient>
+					<amount>1/3</amount>
+					<unit>cup</unit>
+					<item>Olive Oil</item>
+					<key>Olive Oil</key>
+				</ingredient>
+			</inggroup>
+		</ingredient-list>
+		<instructions>* </instructions>
+	</recipe>
+	<recipe id="0">
+		<title>Beans</title>
+		<category>Salad</category>
+		<cuisine>American</cuisine>
+		<preptime>1 hour</preptime>
+		<yields>8 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<ingredient optional="yes">
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<inggroup>
+				<groupname>Dressing</groupname>
+				<ingredient>
+					<amount>1/3</amount>
+					<unit>cup</unit>
+					<item>Olive Oil</item>
+					<key>Olive Oil</key>
+				</ingredient>
+			</inggroup>
+		</ingredient-list>
+		<instructions>* </instructions>
+	</recipe>
+	<recipe id="0">
+		<title>Beans</title>
+		<category>Salad</category>
+		<cuisine>American</cuisine>
+		<preptime>1 hour</preptime>
+		<yields>8 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<ingredient optional="yes">
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<inggroup>
+				<groupname>Dressing</groupname>
+				<ingredient>
+					<amount>1/3</amount>
+					<unit>cup</unit>
+					<item>Olive Oil</item>
+					<key>Olive Oil</key>
+				</ingredient>
+			</inggroup>
+		</ingredient-list>
+		<instructions>* </instructions>
+	</recipe>
+	<recipe id="0">
+		<title>Beans</title>
+		<category>Salad</category>
+		<cuisine>American</cuisine>
+		<preptime>1 hour</preptime>
+		<yields>8 servings</yields>
+		<ingredient-list>
+			<ingredient>
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<ingredient optional="yes">
+				<amount>1</amount>
+				<unit>can</unit>
+				<item>Green Beans, cut</item>
+				<key>Green Beans, cut</key>
+			</ingredient>
+			<inggroup>
+				<groupname>Dressing</groupname>
+				<ingredient>
+					<amount>1/3</amount>
+					<unit>cup</unit>
+					<item>Olive Oil</item>
+					<key>Olive Oil</key>
+				</ingredient>
+			</inggroup>
+		</ingredient-list>
+		<instructions>* </instructions>
 	</recipe>
 </gourmetDoc>
